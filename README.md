@@ -1,4 +1,5 @@
 # Demo Git Repo
 
-# List if files 
+# List of files 
 index.html
+.gitignore
